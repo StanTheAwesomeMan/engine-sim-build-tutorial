@@ -72,7 +72,7 @@ set(SDL2_IMAGE_LIBRARY C:/local/SDL2_image/lib/x64/SDL2_image.lib)
 set(Boost_DIR C:/local/Boost_1_80_0)
 set(Boost_INCLUDE_DIR C:/local/Boost_1_80_0)
 set(Boost_FILESYSTEM_LIBRARY_RELEASE C:/local/Boost_1_80_0/lib64-msvc-14.3/libboost_filesystem-vc143-mt-x64-1_80.lib)
-set(Boost_FILESYSTEM_LIBRARY_DEBUG C:/local/Boost_1_80_0/lib64-msvc-14.3/libboost_filesystem-vc143-mt-x64-1_80.lib)
+set(Boost_FILESYSTEM_LIBRARY_DEBUG C:/local/Boost_1_80_0/lib64-msvc-14.3/libboost_filesystem-vc143-mt-gd-x64-1_80.lib)
 set(Boost_LIBRARY_DIR_DEBUG C:/local/Boost_1_80_0/lib64-msvc-14.3)
 set(Boost_LIBRARY_DIR_RELEASE C:/local/Boost_1_80_0/lib64-msvc-14.3)
 
