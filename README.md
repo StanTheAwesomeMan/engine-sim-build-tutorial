@@ -104,7 +104,7 @@ Everything should build sucessfully. You can ignore the Yellow warnings while bu
 
 # Step 5 - Starting the Simulator
 
-First, you need to put [These DLL's](https://cdn.discordapp.com/attachments/794975038616895488/1008047097020436500/DLLs.zip) into the `Releases` Folder.
+First, you need to put [These DLL's](https://cdn.discordapp.com/attachments/794975038616895488/1008047097020436500/DLLs.zip) into the `Release` Folder.
 If you don't see This folder, create it. *info: the capital R is important*
 
 ![dlls](https://cdn.discordapp.com/attachments/794975038616895488/1008047688429871125/unknown.png)
