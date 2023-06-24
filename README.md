@@ -1,6 +1,6 @@
 # How to Build?
 
-NOTE: a Prebuilt binary exists [here!!!](https://github.com/ange-yaghi/engine-sim/tags)
+NOTE: a Prebuilt and more up to date binary exists [here!!!](https://github.com/Engine-Simulator/engine-sim-community-edition/tags)
 
 # Step 1 - Installing Chocolatey, git and Cmake
 
